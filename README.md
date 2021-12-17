@@ -1,2 +1,1 @@
-# myShell
-my shell script
+# Collection of my custom scripts
